@@ -1,4 +1,4 @@
-#election_audit
+# Election Audit
 Overview of Election Audit: The purpose of this election audit analysis was to provide more data for the election audit to the election comission. The new information includes the voter turnout for each county, the percentage of votes from each county out of the total count, and the county with the highest turnout.
 
 Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
